@@ -29,6 +29,4 @@ public class IdlingState : GroundedState
        
         StateSwitcher.SwitchState<WalkingState>();
     }
-
-    
 }
